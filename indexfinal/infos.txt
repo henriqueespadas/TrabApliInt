@@ -1,7 +1,0 @@
-Estudar metodos especiais
-
-sobrecarga de operadores (importante na area cientifica)
-
-pensepython2e
-
-Real Python
